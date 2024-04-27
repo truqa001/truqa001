@@ -20,7 +20,6 @@
 ### 🧰 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=bitbucket,bootstrap,babel,cloudflare,css,docker,figma,firebase,git,github,gitlab,graphql,html,js,jquery,materialui,mysql,nextjs,nodejs,npm,postgres,rails,react,redux,ruby,sass,tailwind,threejs,typescript,vite,vscode,webpack&theme=dark)](https://skillicons.dev)
 
-<br />
 
 #
 
